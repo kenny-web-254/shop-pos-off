@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Futuristic POS Device / Screen card silhouette -->
+    <path
+        android:fillColor="#1F2937"
+        android:pathData="M32,28 L76,28 C80.4,28 84,31.6 84,36 L84,72 C84,76.4 80.4,80 76,80 L32,80 C27.6,80 24,76.4 24,72 L24,36 C24,31.6 27.6,28 32,28 Z" />
+    <!-- Device Screen Area -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M28,32 L80,32 C82.2,32 84,33.8 84,36 L84,66 C84,68.2 82.2,70 80,70 L28,70 C25.8,70 24,68.2 24,66 L24,36 C24,33.8 25.8,32 28,32 Z" />
+    <!-- Accent Neon Edge Bar -->
+    <path
+        android:fillColor="#00F5A0"
+        android:pathData="M34,36 L74,36 C75.1,36 76,36.9 76,38 L76,40 C76,41.1 75.1,42 74,42 L34,42 C32.9,42 32,41.1 32,40 L32,38 C32,36.9 32.9,36 34,36 Z" />
+    <!-- Stylized 'R' and 'G' in neon accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,47 L45,47 C47.2,47 49,48.8 49,51 C49,52.8 47.7,54.4 46,54.8 L49.5,62 L46.2,62 L43,55.5 L39.8,55.5 L39.8,62 L37,62 Z M39.8,49.5 L39.8,53.2 L44.8,53.2 C45.6,53.2 46.2,52.6 46.2,51.8 C46.2,51.0 45.6,50.4 44.8,50.4 L39.8,50.4 Z" />
+    <path
+        android:fillColor="#00F5A0"
+        android:pathData="M63.5,50 L58,50 C55.2,50 53,52.2 53,55 L53,57 C53,59.8 55.2,62 58,62 L64,62 L64,55.5 L58.5,55.5 L58.5,58 L61.5,58 L61.5,59.5 L58,59.5 C56.6,59.5 55.5,58.4 55.5,57 L55.5,55 C55.5,53.6 56.6,52.5 58,52.5 L63.5,52.5 Z" />
+    <!-- POS Terminal Base Stand & Scanner Beam -->
+    <path
+        android:fillColor="#374151"
+        android:pathData="M44,80 L64,80 L68,86 L40,86 Z" />
+</vector>
