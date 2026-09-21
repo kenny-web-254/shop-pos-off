@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- No INTERNET permission on purpose: RG POS is offline-first.
+         allowBackup=false so Android cloud backup can't copy the sales database;
+         RG POS has its own validated backup/restore. -->
+    <application
+        android:allowBackup="false"
+        android:label="RG POS"
+        android:supportsRtl="true" />
+</manifest>
